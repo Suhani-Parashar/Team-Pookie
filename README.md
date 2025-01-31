@@ -18,7 +18,7 @@ Conclusion
 This AI-based security system addresses the key shortcomings of traditional cameras by integrating intelligent motion detection and threat identification. It enhances home security by minimizing false alarms and providing homeowners with more reliable, actionable insights in real time. By leveraging affordable tools like Raspberry Pi and OpenCV, this system is accessible and can be deployed by a wide range of users seeking better home protection.
 
 Contribution of Team Meambers:
-Ujjwal:Backend
-Anush Choudhary:Frontend
-Jashanpreet:Helping Hand
-Suhani Parashar:Team Management
+Ujjwal:Backend Developer
+Anush Choudhary:Frontend Developer
+Jashanpreet:Team Management
+Suhani Parashar:Tester
