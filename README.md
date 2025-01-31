@@ -1,5 +1,7 @@
 # Team-Pookie
 AI BASED HOME SECURITY SYSTEM
+
+
 Home security is a top priority for many homeowners, especially as concerns about theft and intrusions rise. Traditional home security cameras often rely on basic motion detection, which may not be enough to accurately identify potential threats. For example, if a tree sways in the wind or a pet moves around, these systems might trigger false alarms or, worse, fail to recognize an actual intruder.
 This issue highlights the need for more intelligent, reliable, and efficient security systems. The solution lies in integrating AI and machine learning with existing security infrastructure to make systems not only responsive but also adaptive.
 
