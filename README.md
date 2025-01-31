@@ -19,6 +19,9 @@ This AI-based security system addresses the key shortcomings of traditional came
 
 Contribution of Team Meambers:
 Ujjwal:Backend Developer
+
 Anush Choudhary:Frontend Developer
+
 Jashanpreet:Team Management
+
 Suhani Parashar:Tester
